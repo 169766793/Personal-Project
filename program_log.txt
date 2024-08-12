@@ -1,0 +1,367 @@
+[Fri Aug  9 20:37:07 2024] Program started
+[Fri Aug  9 20:37:07 2024] Loading student information from file
+[Fri Aug  9 20:37:07 2024] Student information loaded from file completed
+[Fri Aug  9 20:37:12 2024] User selected Login option
+[Fri Aug  9 20:37:12 2024] Login attempt started
+[Fri Aug  9 20:37:14 2024] Password input started
+[Fri Aug  9 20:37:15 2024] Password input completed
+[Fri Aug  9 20:37:15 2024] Login successful
+[Fri Aug  9 20:37:19 2024] User selected displayinfo option
+[Fri Aug  9 20:37:19 2024] Displaying all student information started
+[Fri Aug  9 20:37:19 2024] All student information displayed completed
+[Fri Aug  9 20:37:22 2024] User selected exit option
+[Fri Aug  9 20:37:22 2024] Student information saved to file
+[Sun Aug 11 09:54:09 2024] Program started
+[Sun Aug 11 09:54:09 2024] Loading student information from file
+[Sun Aug 11 09:54:09 2024] Student information loaded from file completed
+[Sun Aug 11 09:54:10 2024] User selected Login option
+[Sun Aug 11 09:54:10 2024] Login attempt started
+[Sun Aug 11 09:54:13 2024] Password input started
+[Sun Aug 11 09:54:13 2024] Password input completed
+[Sun Aug 11 09:54:13 2024] Login successful
+[Sun Aug 11 09:54:15 2024] User selected displayinfo option
+[Sun Aug 11 09:54:15 2024] Displaying all student information started
+[Sun Aug 11 09:54:15 2024] All student information displayed completed
+[Sun Aug 11 09:54:19 2024] User selected displayinfo option
+[Sun Aug 11 09:54:19 2024] Displaying all student information started
+[Sun Aug 11 09:54:19 2024] All student information displayed completed
+[Sun Aug 11 09:54:25 2024] User selected delinfo option
+[Sun Aug 11 09:54:27 2024] User selected delallinfo option
+[Sun Aug 11 09:54:27 2024] Clearing all student information stared
+[Sun Aug 11 09:54:38 2024] User selected viewlog option
+[Sun Aug 11 09:54:38 2024] Printing log file contents started
+[Sun Aug 11 09:54:38 2024] Log file contents printed completed
+[Sun Aug 11 09:54:45 2024] User selected delinfo option
+[Sun Aug 11 09:54:46 2024] User selected delallinfo option
+[Sun Aug 11 09:54:46 2024] Clearing all student information stared
+[Sun Aug 11 09:54:55 2024] User selected displayinfo option
+[Sun Aug 11 09:54:55 2024] Displaying all student information started
+[Sun Aug 11 09:54:55 2024] All student information displayed completed
+[Sun Aug 11 09:54:59 2024] User selected displayinfo option
+[Sun Aug 11 09:54:59 2024] Displaying all student information started
+[Sun Aug 11 09:54:59 2024] All student information displayed completed
+[Sun Aug 11 09:55:03 2024] User selected displayinfo option
+[Sun Aug 11 09:55:03 2024] Displaying all student information started
+[Sun Aug 11 09:55:03 2024] All student information displayed completed
+[Sun Aug 11 09:55:09 2024] User selected delinfo option
+[Sun Aug 11 09:55:15 2024] User selected delsingleinfo option
+[Sun Aug 11 09:55:15 2024] Deleting single student information started
+[Sun Aug 11 09:55:22 2024] User selected exit option
+[Sun Aug 11 09:55:22 2024] Student information saved to file
+[Sun Aug 11 15:53:51 2024] Program started
+[Sun Aug 11 15:53:51 2024] Loading student information from file
+[Sun Aug 11 15:53:51 2024] Student information loaded from file completed
+[Sun Aug 11 15:53:54 2024] User selected Login option
+[Sun Aug 11 15:53:54 2024] Login attempt started
+[Sun Aug 11 15:53:56 2024] Password input started
+[Sun Aug 11 15:53:56 2024] Password input completed
+[Sun Aug 11 15:53:56 2024] Login successful
+[Sun Aug 11 15:53:58 2024] User selected displayinfo option
+[Sun Aug 11 15:53:58 2024] Displaying all student information started
+[Sun Aug 11 15:53:58 2024] All student information displayed completed
+[Sun Aug 11 15:54:02 2024] User selected displayinfo option
+[Sun Aug 11 15:54:02 2024] Displaying all student information started
+[Sun Aug 11 15:54:02 2024] All student information displayed completed
+[Sun Aug 11 15:54:07 2024] User selected displayinfo option
+[Sun Aug 11 15:54:07 2024] Displaying all student information started
+[Sun Aug 11 15:54:07 2024] All student information displayed completed
+[Sun Aug 11 15:56:21 2024] User selected exit option
+[Sun Aug 11 15:56:21 2024] Student information saved to file
+[Sun Aug 11 15:57:23 2024] Program started
+[Sun Aug 11 15:57:23 2024] Loading student information from file
+[Sun Aug 11 15:57:23 2024] Student information loaded from file completed
+[Sun Aug 11 15:57:27 2024] Program started
+[Sun Aug 11 15:57:27 2024] Loading student information from file
+[Sun Aug 11 15:57:27 2024] Student information loaded from file completed
+[Sun Aug 11 15:57:29 2024] User selected Login option
+[Sun Aug 11 15:57:29 2024] Login attempt started
+[Sun Aug 11 15:57:32 2024] Password input started
+[Sun Aug 11 15:57:34 2024] Password input completed
+[Sun Aug 11 15:57:34 2024] Login failed
+[Sun Aug 11 15:57:38 2024] User selected Login option
+[Sun Aug 11 15:57:38 2024] Login attempt started
+[Sun Aug 11 15:57:39 2024] Password input started
+[Sun Aug 11 15:57:39 2024] Password input completed
+[Sun Aug 11 15:57:39 2024] Login successful
+[Sun Aug 11 15:57:44 2024] User selected displayinfo option
+[Sun Aug 11 15:57:44 2024] Displaying all student information started
+[Sun Aug 11 15:57:44 2024] All student information displayed completed
+[Sun Aug 11 15:57:51 2024] User selected exit option
+[Sun Aug 11 15:57:51 2024] Student information saved to file
+[Sun Aug 11 15:58:16 2024] Program started
+[Sun Aug 11 15:58:16 2024] Loading student information from file
+[Sun Aug 11 15:58:16 2024] Student information loaded from file completed
+[Sun Aug 11 15:58:18 2024] User selected Login option
+[Sun Aug 11 15:58:18 2024] Login attempt started
+[Sun Aug 11 15:58:19 2024] Password input started
+[Sun Aug 11 15:58:19 2024] Password input completed
+[Sun Aug 11 15:58:19 2024] Login successful
+[Sun Aug 11 15:58:26 2024] User selected exit option
+[Sun Aug 11 15:58:26 2024] Student information saved to file
+[Sun Aug 11 15:58:36 2024] Program started
+[Sun Aug 11 15:58:36 2024] Loading student information from file
+[Sun Aug 11 15:58:36 2024] Student information loaded from file completed
+[Sun Aug 11 15:58:40 2024] Program started
+[Sun Aug 11 15:58:40 2024] Loading student information from file
+[Sun Aug 11 15:58:40 2024] Student information loaded from file completed
+[Sun Aug 11 15:58:41 2024] User selected Login option
+[Sun Aug 11 15:58:41 2024] Login attempt started
+[Sun Aug 11 15:58:44 2024] Password input started
+[Sun Aug 11 15:58:44 2024] Password input completed
+[Sun Aug 11 15:58:44 2024] Login successful
+[Sun Aug 11 15:58:48 2024] User selected displayinfo option
+[Sun Aug 11 15:58:48 2024] Displaying all student information started
+[Sun Aug 11 15:58:48 2024] All student information displayed completed
+[Sun Aug 11 15:58:56 2024] User selected exit option
+[Sun Aug 11 15:58:56 2024] Student information saved to file
+[Sun Aug 11 15:59:18 2024] Program started
+[Sun Aug 11 15:59:18 2024] Loading student information from file
+[Sun Aug 11 15:59:18 2024] Student information loaded from file completed
+[Sun Aug 11 15:59:20 2024] User selected Login option
+[Sun Aug 11 15:59:23 2024] Program started
+[Sun Aug 11 15:59:23 2024] Loading student information from file
+[Sun Aug 11 15:59:23 2024] Student information loaded from file completed
+[Sun Aug 11 15:59:24 2024] User selected Login option
+[Sun Aug 11 15:59:24 2024] Login attempt started
+[Sun Aug 11 15:59:27 2024] Password input started
+[Sun Aug 11 15:59:28 2024] Password input completed
+[Sun Aug 11 15:59:28 2024] Login failed
+[Sun Aug 11 15:59:31 2024] User selected Login option
+[Sun Aug 11 15:59:31 2024] Login attempt started
+[Sun Aug 11 15:59:33 2024] Password input started
+[Sun Aug 11 15:59:33 2024] Password input completed
+[Sun Aug 11 15:59:33 2024] Login successful
+[Sun Aug 11 15:59:36 2024] User selected displayinfo option
+[Sun Aug 11 15:59:36 2024] Displaying all student information started
+[Sun Aug 11 15:59:36 2024] All student information displayed completed
+[Sun Aug 11 15:59:47 2024] User selected aadinfo option
+[Sun Aug 11 15:59:47 2024] Adding student information started
+[Sun Aug 11 16:00:20 2024] Adding student information completed
+[Sun Aug 11 16:00:20 2024] Student information saved to file
+[Sun Aug 11 16:00:25 2024] User selected displayinfo option
+[Sun Aug 11 16:00:25 2024] Displaying all student information started
+[Sun Aug 11 16:00:25 2024] All student information displayed completed
+[Sun Aug 11 16:00:29 2024] User selected delinfo option
+[Sun Aug 11 16:00:30 2024] User selected delsingleinfo option
+[Sun Aug 11 16:00:30 2024] Deleting single student information started
+[Sun Aug 11 16:00:35 2024] Student deleted completed
+[Sun Aug 11 16:00:35 2024] Student information saved to file
+[Sun Aug 11 16:00:39 2024] User selected displayinfo option
+[Sun Aug 11 16:00:39 2024] Displaying all student information started
+[Sun Aug 11 16:00:39 2024] All student information displayed completed
+[Sun Aug 11 16:00:45 2024] User selected exit option
+[Sun Aug 11 16:00:45 2024] Student information saved to file
+[Sun Aug 11 16:01:07 2024] Program started
+[Sun Aug 11 16:01:07 2024] Loading student information from file
+[Sun Aug 11 16:01:07 2024] Student information loaded from file completed
+[Sun Aug 11 16:01:08 2024] User selected Login option
+[Sun Aug 11 16:01:08 2024] Login attempt started
+[Sun Aug 11 16:01:10 2024] Password input started
+[Sun Aug 11 16:01:10 2024] Password input completed
+[Sun Aug 11 16:01:10 2024] Login successful
+[Sun Aug 11 16:01:23 2024] User selected exit option
+[Sun Aug 11 16:01:23 2024] Student information saved to file
+[Sun Aug 11 16:01:25 2024] Program started
+[Sun Aug 11 16:01:25 2024] Loading student information from file
+[Sun Aug 11 16:01:25 2024] Student information loaded from file completed
+[Sun Aug 11 16:01:26 2024] User selected Login option
+[Sun Aug 11 16:01:26 2024] Login attempt started
+[Sun Aug 11 16:01:31 2024] Password input started
+[Sun Aug 11 16:01:32 2024] Password input completed
+[Sun Aug 11 16:01:32 2024] Login successful
+[Sun Aug 11 16:01:37 2024] User selected exit option
+[Sun Aug 11 16:01:37 2024] Student information saved to file
+[Sun Aug 11 16:03:07 2024] Program started
+[Sun Aug 11 16:03:07 2024] Loading student information from file
+[Sun Aug 11 16:03:07 2024] Student information loaded from file completed
+[Sun Aug 11 16:03:08 2024] User selected Login option
+[Sun Aug 11 16:03:08 2024] Login attempt started
+[Sun Aug 11 16:03:10 2024] Password input started
+[Sun Aug 11 16:03:10 2024] Password input completed
+[Sun Aug 11 16:03:10 2024] Login successful
+[Sun Aug 11 16:03:15 2024] User selected displayinfo option
+[Sun Aug 11 16:03:15 2024] Displaying all student information started
+[Sun Aug 11 16:03:15 2024] All student information displayed completed
+[Sun Aug 11 16:03:30 2024] User selected aadinfo option
+[Sun Aug 11 16:03:30 2024] Adding student information started
+[Sun Aug 11 16:03:46 2024] Adding student information completed
+[Sun Aug 11 16:03:46 2024] Student information saved to file
+[Sun Aug 11 16:03:54 2024] User selected displayinfo option
+[Sun Aug 11 16:03:54 2024] Displaying all student information started
+[Sun Aug 11 16:03:54 2024] All student information displayed completed
+[Sun Aug 11 16:04:02 2024] User selected delinfo option
+[Sun Aug 11 16:04:03 2024] User selected delsingleinfo option
+[Sun Aug 11 16:04:03 2024] Deleting single student information started
+[Sun Aug 11 16:04:07 2024] Student deleted completed
+[Sun Aug 11 16:04:07 2024] Student information saved to file
+[Sun Aug 11 16:04:25 2024] Program started
+[Sun Aug 11 16:04:25 2024] Loading student information from file
+[Sun Aug 11 16:04:25 2024] Student information loaded from file completed
+[Sun Aug 11 16:04:26 2024] User selected Login option
+[Sun Aug 11 16:04:26 2024] Login attempt started
+[Sun Aug 11 16:04:27 2024] Password input started
+[Sun Aug 11 16:04:27 2024] Password input completed
+[Sun Aug 11 16:04:27 2024] Login successful
+[Sun Aug 11 16:04:32 2024] User selected displayinfo option
+[Sun Aug 11 16:04:32 2024] Displaying all student information started
+[Sun Aug 11 16:04:32 2024] All student information displayed completed
+[Sun Aug 11 16:04:53 2024] Program started
+[Sun Aug 11 16:04:53 2024] Loading student information from file
+[Sun Aug 11 16:04:53 2024] Student information loaded from file completed
+[Sun Aug 11 16:04:54 2024] User selected Login option
+[Sun Aug 11 16:04:54 2024] Login attempt started
+[Sun Aug 11 16:04:56 2024] Password input started
+[Sun Aug 11 16:04:56 2024] Password input completed
+[Sun Aug 11 16:04:56 2024] Login successful
+[Sun Aug 11 16:05:21 2024] User selected displayinfo option
+[Sun Aug 11 16:05:21 2024] Displaying all student information started
+[Sun Aug 11 16:05:21 2024] All student information displayed completed
+[Sun Aug 11 16:05:26 2024] User selected displayinfo option
+[Sun Aug 11 16:05:26 2024] Displaying all student information started
+[Sun Aug 11 16:05:26 2024] All student information displayed completed
+[Sun Aug 11 16:05:31 2024] User selected displayinfo option
+[Sun Aug 11 16:05:31 2024] Displaying all student information started
+[Sun Aug 11 16:05:31 2024] All student information displayed completed
+[Sun Aug 11 16:05:35 2024] User selected displayinfo option
+[Sun Aug 11 16:05:35 2024] Displaying all student information started
+[Sun Aug 11 16:05:35 2024] All student information displayed completed
+[Sun Aug 11 16:05:40 2024] User selected displayinfo option
+[Sun Aug 11 16:05:40 2024] Displaying all student information started
+[Sun Aug 11 16:05:40 2024] All student information displayed completed
+[Sun Aug 11 16:05:44 2024] User selected displayinfo option
+[Sun Aug 11 16:05:44 2024] Displaying all student information started
+[Sun Aug 11 16:05:44 2024] All student information displayed completed
+[Sun Aug 11 16:05:47 2024] User selected displayinfo option
+[Sun Aug 11 16:05:47 2024] Displaying all student information started
+[Sun Aug 11 16:05:47 2024] All student information displayed completed
+[Sun Aug 11 16:05:51 2024] User selected displayinfo option
+[Sun Aug 11 16:05:51 2024] Displaying all student information started
+[Sun Aug 11 16:05:51 2024] All student information displayed completed
+[Sun Aug 11 16:05:55 2024] User selected displayinfo option
+[Sun Aug 11 16:05:55 2024] Displaying all student information started
+[Sun Aug 11 16:05:55 2024] All student information displayed completed
+[Sun Aug 11 16:05:59 2024] User selected displayinfo option
+[Sun Aug 11 16:05:59 2024] Displaying all student information started
+[Sun Aug 11 16:05:59 2024] All student information displayed completed
+[Sun Aug 11 16:06:02 2024] User selected displayinfo option
+[Sun Aug 11 16:06:02 2024] Displaying all student information started
+[Sun Aug 11 16:06:02 2024] All student information displayed completed
+[Sun Aug 11 16:06:06 2024] User selected displayinfo option
+[Sun Aug 11 16:06:06 2024] Displaying all student information started
+[Sun Aug 11 16:06:06 2024] All student information displayed completed
+[Sun Aug 11 16:06:10 2024] User selected displayinfo option
+[Sun Aug 11 16:06:10 2024] Displaying all student information started
+[Sun Aug 11 16:06:10 2024] All student information displayed completed
+[Sun Aug 11 16:06:14 2024] User selected exit option
+[Sun Aug 11 16:06:14 2024] Student information saved to file
+[Sun Aug 11 16:06:18 2024] Program started
+[Sun Aug 11 16:06:18 2024] Loading student information from file
+[Sun Aug 11 16:06:18 2024] Student information loaded from file completed
+[Sun Aug 11 16:06:19 2024] User selected Login option
+[Sun Aug 11 16:06:19 2024] Login attempt started
+[Sun Aug 11 16:06:20 2024] Password input started
+[Sun Aug 11 16:06:21 2024] Password input completed
+[Sun Aug 11 16:06:21 2024] Login successful
+[Sun Aug 11 16:06:39 2024] Program started
+[Sun Aug 11 16:06:39 2024] Loading student information from file
+[Sun Aug 11 16:06:39 2024] Student information loaded from file completed
+[Sun Aug 11 16:06:40 2024] User selected Login option
+[Sun Aug 11 16:06:40 2024] Login attempt started
+[Sun Aug 11 16:06:41 2024] Password input started
+[Sun Aug 11 16:06:42 2024] Password input completed
+[Sun Aug 11 16:06:42 2024] Login successful
+[Sun Aug 11 17:20:43 2024] Program started
+[Sun Aug 11 17:20:43 2024] Loading student information from file
+[Sun Aug 11 17:20:43 2024] Student information loaded from file completed
+[Sun Aug 11 17:20:47 2024] User selected Login option
+[Sun Aug 11 17:20:47 2024] Login attempt started
+[Sun Aug 11 17:20:49 2024] Password input started
+[Sun Aug 11 17:20:50 2024] Password input completed
+[Sun Aug 11 17:20:50 2024] Login successful
+[Sun Aug 11 17:20:52 2024] User selected displayinfo option
+[Sun Aug 11 17:20:52 2024] Displaying all student information started
+[Sun Aug 11 17:20:52 2024] All student information displayed completed
+[Sun Aug 11 17:20:58 2024] User selected aadinfo option
+[Sun Aug 11 17:20:58 2024] Adding student information started
+[Sun Aug 11 19:43:02 2024] Program started
+[Sun Aug 11 19:43:02 2024] Loading student information from file
+[Sun Aug 11 19:43:02 2024] Student information loaded from file completed
+[Sun Aug 11 19:43:02 2024] User selected Login option
+[Sun Aug 11 19:43:02 2024] Login attempt started
+[Sun Aug 11 19:43:05 2024] Password input started
+[Sun Aug 11 19:43:05 2024] Password input completed
+[Sun Aug 11 19:43:05 2024] Login successful
+[Sun Aug 11 19:43:12 2024] User selected aadinfo option
+[Sun Aug 11 19:43:12 2024] Adding student information started
+[Sun Aug 11 19:44:34 2024] Program started
+[Sun Aug 11 19:44:34 2024] Loading student information from file
+[Sun Aug 11 19:44:34 2024] Student information loaded from file completed
+[Sun Aug 11 19:44:38 2024] Program started
+[Sun Aug 11 19:44:38 2024] Loading student information from file
+[Sun Aug 11 19:44:38 2024] Student information loaded from file completed
+[Sun Aug 11 19:44:39 2024] User selected Login option
+[Sun Aug 11 19:44:39 2024] Login attempt started
+[Sun Aug 11 19:44:40 2024] Password input started
+[Sun Aug 11 19:44:40 2024] Password input completed
+[Sun Aug 11 19:44:40 2024] Login successful
+[Sun Aug 11 19:44:44 2024] User selected aadinfo option
+[Sun Aug 11 19:44:44 2024] Adding student information started
+[Sun Aug 11 21:18:30 2024] Program started
+[Sun Aug 11 21:18:30 2024] Loading student information from file
+[Sun Aug 11 21:18:30 2024] Student information loaded from file completed
+[Sun Aug 11 21:39:40 2024] User selected Login option
+[Sun Aug 11 21:39:40 2024] Login attempt started
+[Sun Aug 11 21:39:42 2024] Password input started
+[Sun Aug 11 21:39:42 2024] Password input completed
+[Sun Aug 11 21:39:42 2024] Login successful
+[Sun Aug 11 21:43:10 2024] Program started
+[Sun Aug 11 21:43:10 2024] Loading student information from file
+[Sun Aug 11 21:43:10 2024] Student information loaded from file completed
+[Sun Aug 11 21:44:25 2024] User selected Login option
+[Sun Aug 11 21:44:25 2024] Login attempt started
+[Sun Aug 11 21:44:29 2024] Password input started
+[Sun Aug 11 21:44:46 2024] Password input completed
+[Sun Aug 11 21:44:46 2024] Login successful
+[Sun Aug 11 21:46:35 2024] User selected exit option
+[Sun Aug 11 21:46:35 2024] Student information saved to file
+[Sun Aug 11 21:46:41 2024] Program started
+[Sun Aug 11 21:46:41 2024] Loading student information from file
+[Sun Aug 11 21:46:41 2024] Student information loaded from file completed
+[Sun Aug 11 21:46:42 2024] User selected Login option
+[Sun Aug 11 21:46:42 2024] Login attempt started
+[Sun Aug 11 21:46:44 2024] Password input started
+[Sun Aug 11 21:46:45 2024] Password input completed
+[Sun Aug 11 21:46:45 2024] Login successful
+[Sun Aug 11 21:47:24 2024] User selected exit option
+[Sun Aug 11 21:47:24 2024] Student information saved to file
+[Sun Aug 11 21:47:26 2024] Program started
+[Sun Aug 11 21:47:26 2024] Loading student information from file
+[Sun Aug 11 21:47:26 2024] Student information loaded from file completed
+[Sun Aug 11 21:47:28 2024] User selected Login option
+[Sun Aug 11 21:47:28 2024] Login attempt started
+[Sun Aug 11 21:47:30 2024] Password input started
+[Sun Aug 11 21:47:30 2024] Password input completed
+[Sun Aug 11 21:47:30 2024] Login successful
+[Sun Aug 11 21:47:33 2024] User selected displayinfo option
+[Sun Aug 11 21:47:33 2024] Displaying all student information started
+[Sun Aug 11 21:47:33 2024] All student information displayed completed
+[Sun Aug 11 21:50:54 2024] User selected exit option
+[Sun Aug 11 21:50:54 2024] Student information saved to file
+[Mon Aug 12 09:10:32 2024] Program started
+[Mon Aug 12 09:10:32 2024] Loading student information from file
+[Mon Aug 12 09:10:32 2024] Student information loaded from file completed
+[Mon Aug 12 09:10:34 2024] User selected Login option
+[Mon Aug 12 10:01:54 2024] Program started
+[Mon Aug 12 10:01:54 2024] Loading student information from file
+[Mon Aug 12 10:01:54 2024] Student information loaded from file completed
+[Mon Aug 12 10:01:56 2024] User selected Login option
+[Mon Aug 12 10:01:56 2024] Login attempt started
+[Mon Aug 12 10:01:59 2024] Password input started
+[Mon Aug 12 10:01:59 2024] Password input completed
+[Mon Aug 12 10:01:59 2024] Login successful
+[Mon Aug 12 10:02:02 2024] User selected displayinfo option
+[Mon Aug 12 10:02:02 2024] Displaying all student information started
+[Mon Aug 12 10:02:02 2024] All student information displayed completed
+[Mon Aug 12 10:02:08 2024] User selected delinfo option
+[Mon Aug 12 10:02:10 2024] User selected delallinfo option
+[Mon Aug 12 10:02:10 2024] Clearing all student information stared
